@@ -5,6 +5,7 @@
 - 📫 How to reach me net securety.
 - 😄 Pronouns: noz
 - ⚡ Fun fact: nothing
+- ✉ nzds23@yahoo.co.jp
 
 <!---
 noz-23/noz-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
