@@ -15,3 +15,13 @@ You can click the Preview link to take a look at your changes.
 40半ばの都内近郊転職活動中です。
 
 ご興味ある方、メールアドレスにご連絡下さい。
+
+# 現在開発中
+
+## BoxNetGroup
+
+Box のグループをネスト(入れ子)管理できるツール
+
+## KintoneProseccShow
+
+Kintone のプロセスの位置を表示するプラグイン
