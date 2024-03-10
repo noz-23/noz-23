@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 Box のグループをネスト(入れ子)管理できるツール
 
-## KintoneProseccShow
+## KintoneInKintone
 
-Kintone のプロセスの位置を表示するプラグイン
+Kintoneの詳細表示で、リンク先のKintoneを表示するプラグイン
