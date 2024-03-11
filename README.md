@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 Box のグループをネスト(入れ子)管理できるツール
 
-## KintoneInKintone
+## KintoneBoxJwt
 
-Kintoneの詳細表示で、リンク先のKintoneを表示するプラグイン
+リンク指定した所に、特定のフォルダ作ったりの機能追加の改修する予定
+
+今はBoxのクローズ構成やセミクローズ構成を主体にしたプラグインを目指そうと思っています
+
