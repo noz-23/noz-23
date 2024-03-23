@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 Box のグループをネスト(入れ子)管理できるツール
 
+基本Boxのグループ優先
+
 ## KintoneBoxJwt
 
 今はBoxのクローズ構成やセミクローズ構成を主体にしたプラグインを目指そうと思っています
@@ -32,8 +34,7 @@ Box のグループをネスト(入れ子)管理できるツール
 
 ※ ユーザーの優先組織とか利用すべきか悩み中
 
-## KintoneMajorToMinorItem
+## Kintone 名称不明
 
-よくある大中小項と表示を減らす系のプラグイン
+再利用した時にクリアしたいフィールドを設定するプラグイン
 
-大中小とか三つなどの一応上限は付けないつもり
