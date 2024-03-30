@@ -28,17 +28,15 @@ Box のグループをネスト(入れ子)管理できるツール
 
 今はBoxのクローズ構成やセミクローズ構成を主体にしたプラグインを目指そうと思っています
 
-## KintoneClosingTime
+## KintoneSaveAlert
 
-当日の日付の場合、設定時間で保存できなくする締切プラグイン
+保存時に確認としてのアラート表示をするプラグイン
 
-※ ユーザーの優先組織とか利用すべきか悩み中
-
-## Kintone 名称不明
+## KintoneClearRecycle
 
 再利用した時にクリアしたいフィールドを設定するプラグイン
 
-## Kintone 名称不明
+## KintoneProcessButtonColor
 
 プロセスのボタンに色付け
 
