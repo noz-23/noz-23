@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 ご興味ある方、メールアドレスにご連絡下さい。
 
+Kintone プラグインなどでも何でも良いので、こんなツール作って下さいがあれば、気軽にメールして下さい。
+
 # 現在開発中
 
 ## BoxNetGroup
