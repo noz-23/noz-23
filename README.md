@@ -53,6 +53,6 @@ Box のグループをネスト(入れ子)管理できるツール
 
 既存の公開しているKintoneプラグイン等に Google AdSense 入れて公開しようと考えています。
 
-　→ Kintone 側で、CORS?なのか閉じられてるっぽ
+　→ Kintone 側で、CORB(CORS?なのか)閉じられてるっぽ
 
 OSSなので削除は簡単にできるので
