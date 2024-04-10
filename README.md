@@ -38,35 +38,35 @@ Box のグループをネスト(入れ子)管理できるツール
 
 プロセスのボタンに色付け
 
-## Kintone 名称不明
+## KintoneShownWithSelect
 
 選択フィールドに特化したフィールドの表示、非表示
 
-## Kintone 名称不明
+## KintoneShownDayOfWeek
 
 曜日毎のフィールドの表示、非表示
 
-## Kintone 名称不明
+## KintoneSortRemake
 
 すべての表示並び替え
 
 アプリ作成後に、一覧表示の列を並び替えた新しいアプリを作る？
 
-## Kintone 名称不明
+## KintoneOpenToday
 
 表示してれば自動実行
 
 一覧表示画面を表示していれば、当日日付を自動更新する様なプラグイン
 
-## Kintone 名称不明
+## KintoneSetParmentGroups
 
 優先組織で設定した組織からネストして上位の組織を設定するプラグイン(アプリとセット？)
 
-## Kintone 名称不明
+## KintoneItsLasted
 
 一覧表示で 特定の項目 が重複する場合、最新のみ表示するプラグイン
 
-# Kintone 名称不明
+# KintoneLimitCharacter 
 
 項目に半角全角などの文字制限
  
