@@ -66,7 +66,7 @@ Box のグループをネスト(入れ子)管理できるツール
 
 一覧表示で 特定の項目 が重複する場合、最新のみ表示するプラグイン
 
-# KintoneLimitCharacter 
+## KintoneLimitCharacter 
 
 項目に半角全角などの文字制限
  
