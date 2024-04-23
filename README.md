@@ -71,10 +71,16 @@ Box のグループをネスト(入れ子)管理できるツール
 フィールドの文字結合
 
 前文字列　フィールド名　後文字列　改行　を複数指定して多行文字列フィールドへ入力
+
+## KintoneJoinCharacter
+
+編集時のグループで指定数で改行(横長防止)
  
 # 思案・対応・勉強
 
 既存の公開しているKintoneプラグイン等に Google AdSense 入れて公開しようと考えています。
+
+Google AdSense　← HPないとダメぽ　GitHub Pagesでタグ書きでHP作成中
 
 　→ Kintone 側で、CORB(CORS?なのか)閉じられてるっぽ
 
