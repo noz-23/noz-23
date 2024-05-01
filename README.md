@@ -24,8 +24,6 @@ Kintone プラグインなどでも何でも良いので、こんなツール作
 
 Box のグループをネスト(入れ子)管理できるツール 
 
-基本Boxのグループ優先
-
 ## KintoneBoxJwt
 
 Kintone で Box を JWT 認証で利用するプラグイン
