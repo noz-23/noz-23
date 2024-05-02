@@ -75,6 +75,10 @@ Kintone で Box を JWT 認証で利用するプラグイン
 ## KintoneJoinCharacter
 
 編集時のグループで指定数で改行(横長防止)
+
+## Kintone 名称不明
+
+組織　ユーザーの　関連レコード
  
 # 思案・対応・勉強
 
