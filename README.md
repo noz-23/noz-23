@@ -30,6 +30,14 @@ Kintone で Box を JWT 認証で利用するプラグイン
 
 # 現在開発中
 
+## KintoneJoinCharacter
+
+フィールドの文字結合
+
+前文字列　フィールド名　後文字列　改行　を複数指定して多行文字列フィールドへ入力
+
+# 現在停止中
+
 ## KintoneClearRecycle
 
 再利用した時にクリアしたいフィールドを設定するプラグイン
@@ -74,12 +82,6 @@ Kintone で Box を JWT 認証で利用するプラグイン
 ## KintoneLimitCharacter 
 
 項目に半角全角などの文字制限
-
-## KintoneJoinCharacter
-
-フィールドの文字結合
-
-前文字列　フィールド名　後文字列　改行　を複数指定して多行文字列フィールドへ入力
 
 ## KintoneJoinCharacter
 
