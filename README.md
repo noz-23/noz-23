@@ -30,13 +30,6 @@ Kintone で Box を JWT 認証で利用するプラグイン
 
 # 現在開発中
 
-## KintoneOpenToday
-
-表示してれば自動実行
-
-一覧表示画面を表示していれば、当日日付を自動更新する様なプラグイン
-
-
 # 現在停止中
 
 ## KintoneClearRecycle
