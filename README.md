@@ -12,7 +12,7 @@ noz-23/noz-23 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-40半ばの都内近郊転職活動中です。
+40半ばの都内近郊のG3です。
 
 ご興味ある方、メールアドレスにご連絡下さい。
 
