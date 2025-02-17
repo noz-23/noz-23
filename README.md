@@ -77,6 +77,8 @@ Kintone で Box を JWT 認証で利用するプラグイン
  
 # 思案・対応・勉強
 
+↓失敗する
+
 既存の公開しているKintoneプラグイン等に Google AdSense 入れて公開しようと考えています。
 
 Google AdSense　← HPないとダメぽ　GitHub Pagesでタグ書きでHP作成中
