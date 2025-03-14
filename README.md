@@ -18,18 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 Kintone プラグインなどでも何でも良いので、こんなツール作って下さいがあれば、気軽にメールして下さい。
 
-# 継続開発
-
-## BoxNetGroup
-
-Box のグループをネスト(入れ子)管理できるツール 
-
-## KintoneBoxJwt
-
-Kintone で Box を JWT 認証で利用するプラグイン
-
-# 現在開発中
-
 # 現在停止中
 
 ## KintoneClearRecycle
